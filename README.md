@@ -1,6 +1,8 @@
 ## Mall Customer Segmentation
 ___
 This is a clutering project that tries to group customers in a dataset based on their age, gender, annual income (in $ thousands) and Spending Score (0-100).
+
+This clustering/ grouping wwas achieved using the K-Means algorithm
 ___
 4 clusters seemed optimal for grouping as it had the best elbow when measuring inertia
 
